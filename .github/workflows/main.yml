@@ -1,4 +1,4 @@
-name: Gerate Podcast Feeds
+name: Gerate All Podcast Feeds
 on: [push]
 jobs: 
   build: 
